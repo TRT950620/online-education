@@ -87,7 +87,7 @@ public class EduCourseController {
     }
 
     /**
-     * 课程列表
+     * 课程列表git
      * @return
      */
     @GetMapping
